@@ -1,3 +1,15 @@
-.brown {
+.brown{
     color:brown;
+}
+#new-style{
+    color: #2980b9;
+}
+.border-red{
+border: 50px solid red;
+}
+.image-size{
+    width: 200px;
+}
+.padding-space{
+    padding: 50px;
 }

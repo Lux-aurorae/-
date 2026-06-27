@@ -42,17 +42,11 @@ p1::{
     foint-size: 200%;
     color:#2980b9
 }
-.sub-header {
-    font-size: 20px;
-    color: #2980b9;
-}
-
-h3::before{
+h3:before{
     content:"Topic:";
 }
-h3:first-child{
+h3::first-child{
     text-align:center;
-    background-color: yellow;
 }
 .challenge2 {
   background-color: #fff;

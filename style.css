@@ -14,5 +14,8 @@ border: 50px solid red;
     padding: 50px;
 }
 .border-blue{
-    border: 50px solid blue;
+border: 50px solid blue;
+}
+.border-green{
+border: 50px solid green;
 }

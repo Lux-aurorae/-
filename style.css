@@ -42,11 +42,12 @@ p1::{
     foint-size: 200%;
     color:#2980b9
 }
-h3:before{
-    content:"Topic:";
+h3 {
+    color:#9b59b6;
 }
-h3::first-child{
-    text-align:center;
+h3{
+    content: "Topic: ";
+    text-align: center;
 }
 .challenge2 {
   background-color: #fff;

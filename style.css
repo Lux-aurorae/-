@@ -19,3 +19,9 @@ border: 50px solid blue;
 .border-green{
 border: 50px solid green;
 }
+.hidden-box{
+    visibility:hidden; 
+}
+.hide-me{
+    display:none;
+}   

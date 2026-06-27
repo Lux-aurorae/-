@@ -38,14 +38,13 @@ p1 {
     font-style:italic;
     color:#2980b9;
 }
-p1::{
+.first-color:first-letter{
     foint-size: 200%;
     color:#2980b9
+
 }
 h3 {
     color:#9b59b6;
-}
-h3{
     content: "Topic: ";
     text-align: center;
 }

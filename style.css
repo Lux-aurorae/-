@@ -38,9 +38,10 @@ p1 {
     font-style:italic;
     color:#2980b9;
 }
-.capitalize{
-    foint-size: 200%;
-    color:#2980b9
+.first-color {
+    font-size: 200%;
+    color:#2980b9;
+    text-transform: capitalize;
 }
 h3 {
     color:#9b59b6;
